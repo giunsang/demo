@@ -1,0 +1,12 @@
+.sidebar {
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+  width: 200px;
+}
+.bg-secondary {
+  margin-left: 200px;
+}
